@@ -1,0 +1,26 @@
+{
+  "name": "prm-mkdirp",
+  "version": "1.0.0",
+  "description": "Slim promise wrapper for mkdirp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaegerMa/prm-mkdirp.js.git"
+  },
+  "keywords": [
+    "mkdirp",
+    "promise"
+  ],
+  "author": "JaegerMa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaegerMa/prm-mkdirp.js/issues"
+  },
+  "homepage": "https://github.com/JaegerMa/prm-mkdirp.js#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
